@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\元件開發\PreHomework\bin\Debug\PreHomework.exe.config
+C:\Users\User\Desktop\元件開發\PreHomework\bin\Debug\PreHomework.exe
+C:\Users\User\Desktop\元件開發\PreHomework\bin\Debug\PreHomework.pdb
+C:\Users\User\Desktop\元件開發\PreHomework\obj\Debug\PreHomework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\元件開發\PreHomework\obj\Debug\PreHomework.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\元件開發\PreHomework\obj\Debug\PreHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\元件開發\PreHomework\obj\Debug\PreHomework.exe
+C:\Users\User\Desktop\元件開發\PreHomework\obj\Debug\PreHomework.pdb
+C:\Users\h81-cad\source\repos\5_廖建安\PreHomework\bin\Debug\PreHomework.exe.config
+C:\Users\h81-cad\source\repos\5_廖建安\PreHomework\bin\Debug\PreHomework.exe
+C:\Users\h81-cad\source\repos\5_廖建安\PreHomework\bin\Debug\PreHomework.pdb
+C:\Users\h81-cad\source\repos\5_廖建安\PreHomework\obj\Debug\PreHomework.csproj.AssemblyReference.cache
+C:\Users\h81-cad\source\repos\5_廖建安\PreHomework\obj\Debug\PreHomework.csproj.CoreCompileInputs.cache
+C:\Users\h81-cad\source\repos\5_廖建安\PreHomework\obj\Debug\PreHomework.exe
+C:\Users\h81-cad\source\repos\5_廖建安\PreHomework\obj\Debug\PreHomework.pdb

@@ -1,0 +1,7 @@
+C:\Users\h81-cad\source\repos\5_廖建安\PreHomework\bin\Debug\PreHomework.exe.config
+C:\Users\h81-cad\source\repos\5_廖建安\PreHomework\bin\Debug\PreHomework.exe
+C:\Users\h81-cad\source\repos\5_廖建安\PreHomework\bin\Debug\PreHomework.pdb
+C:\Users\h81-cad\source\repos\5_廖建安\PreHomework\obj\Debug\Homework.csproj.AssemblyReference.cache
+C:\Users\h81-cad\source\repos\5_廖建安\PreHomework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\h81-cad\source\repos\5_廖建安\PreHomework\obj\Debug\PreHomework.exe
+C:\Users\h81-cad\source\repos\5_廖建安\PreHomework\obj\Debug\PreHomework.pdb
